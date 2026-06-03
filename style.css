@@ -18,3 +18,13 @@
 .cartão-imagem {
    width: 100%;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-width: 100vh;
+}
+
+main {
+    flex: 1;
+}
