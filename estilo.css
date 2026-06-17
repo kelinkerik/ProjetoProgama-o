@@ -8,15 +8,15 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #4f983a;
+  background-color: #828681;
 }
 
-.cartão {
+.cartao {
   width: 260px;
   height: 200px;
 }
 
-.cartão-imagem {
+.cartao-imagem {
    width: 100%;
 }
 
